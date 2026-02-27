@@ -1,9 +1,12 @@
 # 🛒 Sistema de Carrinho de Compras em Python
 
-Projeto desenvolvido para a disciplina utilizando:
-- Programação Orientada a Objetos
-- Listas
-- Organização em múltiplos arquivos
+Projeto desenvolvido para a disciplina de **Linguagem de Programação II**, com foco em:
+
+- Programação Orientada a Objetos (POO)
+- Encapsulamento
+- Modularização
+- Separação de responsabilidades
+- Boas práticas de organização de código
 
 ## 📌 Funcionalidades
 
